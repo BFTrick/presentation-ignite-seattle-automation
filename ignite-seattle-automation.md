@@ -2,14 +2,13 @@ footer: Patrick Rauland - @BFTrick
 
 ## Are Robots Coming to Take Your Job?
 
----
+^ I work in retail. And every day we hear about how there's some new robot that's coming for our job.
 
-![fill](assets/walmart-replaces-workers.jpg)![fill](assets/mcdonalds-replaces-cashiers.jpg)
-![fill](assets/cafeteria-kiosks.jpg)
+---
 
 * Walmart replaces 4,000 workers with robots[^1]
 * McDonalds replaces cashiers with kiosks in 2,500 restaurants[^2]
-* This cafeteria replaced all of their staff with self serve vending Machines[^3]
+* This cafeteria replaced all of their staff with self serve vending machines[^3]
 
 [^1]: https://www.theissue.com/politics/wal-mart-replaces-over-4000-workers-with-robots
 
@@ -17,9 +16,11 @@ footer: Patrick Rauland - @BFTrick
 
 [^3]: http://www.recordonline.com/news/20170413/self-serve-kiosks-to-replace-food-staff-at-suny-orange
 
-^ Just last month Walmart replaced 4,000 workers with robots.
+^ Walmart replaced 4,000 workers with robots.
 
-^ In June McDonalds replaced cashiers with kiosks in 2,500 restaurants. They look just like the airport kiosks.
+^ McDonalds replaced cashiers with kiosks.
+
+^ And this cafeteria replaced all of their staff with vending machines.
 
 ---
 
@@ -27,9 +28,9 @@ footer: Patrick Rauland - @BFTrick
 
 [^4]: http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf
 
-^ And even academic literature paints a bleak future But a lot of them reference this study:
+^ And even academic literature paints a bleak future. This study by Oxford says that 47% of all jobs in the US are at risk.
 
-^ this is one of the most cited studies which basically says you're fucked. Well 47% of us.
+^ That's scary right?
 
 ---
 
@@ -61,39 +62,27 @@ footer: Patrick Rauland - @BFTrick
 
 ^ So as robots do more work we should see an increase in productivity
 
-^ But actually the opposite has happened.
-
-^ In the 1940s-1970s we were on average 3% more productive every year.
-
-^ But since 2007 it's grown at a rate of 1.2 percent.
-
-^ And the last two years it's been 0.6 percent.
-
-^ So productivity is insanely low. We should be seeing really high productivity because robots are doing jobs for us.
+^ But actually the opposite has happened. We're heading towards a productivity slump. This is opposite of what we should see.
 
 ---
 
 ![left fit](assets/unemployment-rate.jpg)
 
-^ Also you'd think if automation were happening on a grand scale we'd see a spike in unemployment. But we're below 5% which is healthy.
-
-^ And we're basically back to where we were since 2007 before the recession.
-
-^ Or maybe you'd say that unemployment might not be low if people quickly find another job. But if you look at job churn it's the lowest it's been in decades
-
 ![fit right](assets/job-tenure.png)
+
+^ Also you'd think if automation were happening on a grand scale we'd see a spike in unemployment. But we're below 5% which is healthy.
 
 ^ and if you look at other metrics like job tenure they match up. Job tenure is going up meaning people are working longer at the same company than they were 5-10 years ago.
 
-^ There are other metrics I could show you like Job Churn and that's going down. It doesn't seem like this automation thing has had that big of an affect on our lives quite yet.
+^ It doesn't seem like this automation thing has had that big of an affect on our lives quite yet.
 
 ---
 
 ## Why Automation Isn't Taking Off
 
-^ So even though we've been automating jobs with computers for the last 5 decades it hasn't had much of an affect on jobs.
+^ We've been automating jobs with computers for the last 5 decades it hasn't had much of an affect on jobs.
 
-^ I'd like to take some time to explain why it isn't working. Because again it seems so obvious that it is going to explode our economy.
+^ I'd like to tell you why.
 
 ---
 
@@ -113,7 +102,7 @@ footer: Patrick Rauland - @BFTrick
 
 ^ The larger bar is 15 billion dollars which is what we spend on sex toys. And don't get me wrong there are some really fun toys out there.
 
-^ But we're spending 15 billion on devices that - well if I can get anywhere close to 5 minutes of use I'm happy.
+^ But we're spending 15 billion on devices that - if I can get to 5 minutes of use I'm happy.
 
 ^ But we're barely investing anything in automation. And at this current pace it will take us decades to perfect all of those things that automation says is right around the corner.
 
@@ -127,9 +116,13 @@ footer: Patrick Rauland - @BFTrick
 
 ^ Well let me tell you about what my job would have been in the 70s: accounting clerks and bookkeepers.
 
-^ They were human excel spreadsheets. Businesses used to employ a team of accounting clerks to manage their spreadsheets. And this was before computers. So they were the size of board room tables. And you had to calculate every field by hand.
+---
 
-^ Businesses used to want to know if we decreased costs for this product by 5% what happens to our bottom line? And the accounting clerks would go into their nerd caves for days to redo a whole spreadsheet and then they'd produce the results.
+## 2) New & Better Jobs
+
+![](assets/drawing.jpg)
+
+^ They were human excel spreadsheets. Businesses used to employ a team of accounting clerks to manage their spreadsheets. And this was before computers. So they were the size of board room tables. And you had to calculate every field by hand.
 
 ---
 
@@ -137,9 +130,9 @@ footer: Patrick Rauland - @BFTrick
 
 # VisiCalc
 
-^ Then in 1979 VisiCalc was released for the Apple II computer. And it was the first computer spreadsheet and it quickly spread across the business world. Selling 700,000 copies in six years.
+^ Then in 1979 VisiCalc was released and we finally had computerized spreadsheets. Something that used to take days now takes seconds.
 
-^ So from 1980 a year after VisiCalc was released until 1990 do you know what happened to those accounting clerk jobs?
+^ You'd think this would crush account clerking jobs. But actually the opposite happened.
 
 ---
 
@@ -147,11 +140,9 @@ footer: Patrick Rauland - @BFTrick
 
 ### Gained 600,000 accounting jobs
 
-^ This is the opposite of what supply and demand tells us. As we make supply more abundant the price of the service should go down and we should see less accountants.
+^ As we make supply more abundant the price of the service should go down and we should see less accountants.
 
-^ But the reason we see the opposite here is because when we made it easy to update spreadsheets we started asking a lot more questions. Before computerized spreadsheets we might have only been able to ask 25 questions a year to our accounting clerks team
-
-
+^ What happened was that before computerized spreadsheets we might have only been able to ask 25 questions a year to our accounting team.
 
 ---
 
@@ -183,37 +174,17 @@ footer: Patrick Rauland - @BFTrick
 
 ^ Go is much more complex than chess in terms of the moves & positions. So it took a lot longer to solve this problem. In fact it took an entire company called DeepMind which was acquired by Google to solve  this game.
 
-^ The researchers had to create 3 separate neural networks that all used different strategies to win at Go. And then they had a main program that would pick the right strategy at the right time.
-
-^ And this is the perfect example of something that can be automated if there's enough time and money. It took an incredibly smart team years to beat humans at Go. And this was a board game created over 2,000 years old.
-
-^ I actually do believe that 47% of our jobs could be automated if we have unlimited time, money, & talent.
-
-^ Lucky for us humans we have limited resources.
-
 ---
 
-## 4) Humans are Stubborn
+# Go
 
-![fit](assets/cellphones-smartphones.jpg)
+![](assets/go-board-game.jpg)
 
-^ Even when there's an amazing product like smartphones, or just simple cellphones, or elevators with buttons. It takes humans decades to actually get used to them.
+^ The researchers had to create 3 separate neural networks that all used different strategies. And then they had a main program that would pick the right strategy at the right time.
 
-^ 23% of Americans still don't use a smartphone and those cost $20 new for the cheaper models.
+^ It took the DeepMind team years to accomplish this and they're the best of the best.
 
----
-
-## A.utomated
-## T.eller
-## M.achine
-
-![fit](assets/dollar-bill.jpg)
-
-^ The First ATM came out in 1967. That's 50 years ago and they haven't replaced tellers in banks.
-
-^ It's name is literally Automated Teller Machine.
-
-^ It takes a long time for us to change.
+^ There's an infinite amount of problems in the world and only so many automation engineers.
 
 ---
 
@@ -228,18 +199,14 @@ footer: Patrick Rauland - @BFTrick
 
 ^ Two economists from MIT published a paper earlier this year about what happened to manufacturing jobs in the US.
 
-^ So why do we believe this? We have the numbers that says our economy is not going to be overrun with robots.
-
-^ I think we believe all of the hype about automation because it seems true.
-
-^ Here's the thing the US has lost a lot of jobs in the last 3 decades.
+^ We have lost a lot of jobs but most of them weren't due to automation. They were trade policies.
 
 ---
 
 # What's Coming
 
-^ My main message here isn't that automation is irrelevant.
+^ My main message here isn't that automation is irrelevant. It is a factor.
 
-^ But we're not spending enough money on it, there will be new jobs, there isn't enough talent to work on all the problems at once, and we're stubborn. So it's going to be a while before it becomes a huge problem.
+^ But we're not spending enough money on it, there will be new jobs, and there isn't enough talent to work on all the problems at once. So it's going to be a while before it becomes a huge problem.
 
 ### Patrick Rauland - @BFTrick
